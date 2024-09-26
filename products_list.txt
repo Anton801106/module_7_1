@@ -1,0 +1,6 @@
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Tomato, 5.5, Vegetables
+Peach, 3,5, fruit
+Cherry, 3.8, Berry
+peach, 3.6, fruit
